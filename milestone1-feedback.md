@@ -1,0 +1,1 @@
+The readmission problem is interesting, but for the next steps, turn it into the LLM-based agent prototype with a harness discussed in class—for example, an agent that uses RAG and calls a risk-scoring/SHAP tool, then produces an evidence-grounded explanation. Define the SLM’s role and use synthetic or appropriately de-identified data.
